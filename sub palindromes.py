@@ -1,4 +1,4 @@
-/*
+"""
 INPUT:
 everest
 
@@ -11,7 +11,7 @@ abccbaab
 OUTPUT:
 5
 cc,bccb,aa,baab,abccba so 5
-*/
+"""
 CODE:
   
 s=input().strip()
